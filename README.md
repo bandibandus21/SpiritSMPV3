@@ -5,7 +5,9 @@
 **Mi van ebbe a pluginba?**
 
 *- Halál*
+
 *- Map generáció*
+
 *- Parancsok*
 
 **Ha ennyire kiváncsi vagy, akkor tekints meg magad.**
