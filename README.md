@@ -3,6 +3,7 @@
 ## Decemberi plugin szóval nem a legjobb, nem is optimizált.
 
 **Mi van ebbe a pluginba?**
+
 *- Halál*
 *- Map generáció*
 *- Parancsok*
@@ -11,4 +12,4 @@
 
 *Plugint használni szervereken szabad, creditet kérek*
 
-`Írta bandibandus10˙
+```Írta bandibandus10```
