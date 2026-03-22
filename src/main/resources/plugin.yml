@@ -1,0 +1,13 @@
+name: SpiritSMPV3
+version: '0.2'
+main: hu.bandibandus10.SpiritSMP
+api-version: '1.21'
+authors: [ bandibandus10 ]
+description: spiritsmp v3 plugin
+commands:
+  spirit:
+    description: good boy
+    permission: spiritsmp.admin
+permissions:
+  spiritsmp.admin:
+    default: op
